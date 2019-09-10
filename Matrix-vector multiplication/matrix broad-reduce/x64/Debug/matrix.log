@@ -1,0 +1,5 @@
+﻿  matrix.cpp
+matrix.cpp(67): warning C4101: 'status': unreferenced local variable
+c:\users\hack_\onedrive\desktop\arsikompar\matrix multiplication\matrix broad-reduce\matrix.cpp(60): warning C4700: uninitialized local variable 'taskid' used
+c:\users\hack_\onedrive\desktop\arsikompar\matrix multiplication\matrix broad-reduce\matrix.cpp(61): warning C4700: uninitialized local variable 'rc' used
+  matrix.vcxproj -> C:\Users\hack_\OneDrive\Desktop\Arsikompar\Matrix multiplication\matrix broad-reduce\x64\Debug\matrix.exe

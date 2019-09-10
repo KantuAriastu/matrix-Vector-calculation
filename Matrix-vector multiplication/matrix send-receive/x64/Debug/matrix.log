@@ -1,0 +1,4 @@
+﻿  matrix.cpp
+matrix.cpp(48): warning C4101: 'cpu_time_used': unreferenced local variable
+c:\users\hack_\onedrive\desktop\arsikompar\matrix multiplication\matrix send-receive\matrix.cpp(63): warning C4700: uninitialized local variable 'rc' used
+  matrix.vcxproj -> C:\Users\hack_\OneDrive\Desktop\Arsikompar\Matrix multiplication\matrix send-receive\x64\Debug\matrix.exe
